@@ -1,0 +1,25 @@
+body{
+ 	background-color:#ffffe0;
+ }
+ header h1{
+ 	border:2px solid #e5eb44;
+ 	text-align: center;
+ 	margin: auto;
+ 	width:300px;
+ 	height:40px;
+ 	background-color:#ffffe0;
+ }
+ 
+ .menu{
+ 	font-size:30px;
+ 	padding:12px;
+ 	float :left;
+ 	margin-left:245px;
+ 	margin-top:150px;
+ 	border:5px solid #e5eb44;
+ }
+
+ a{
+ 	text-decoration: none;
+ 	color:black;
+ }
