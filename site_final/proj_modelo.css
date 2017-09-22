@@ -1,0 +1,25 @@
+.document{
+    width: 1440px;
+    height:700px;
+    background-color: #EBEAE7;
+}
+#titulo{
+    font-family: Roboto;
+    font-color:black;
+    text-align:center;
+}
+
+.document img{
+    float:left;
+    width: 40%;
+    height: 60%;
+
+}
+
+#conteudo{
+    border:solid,#D71414;
+    float:right;
+    width: 55%;
+    font-size:30px;
+    font-family: Roboto;
+    }

@@ -1,0 +1,83 @@
+
+
+#mySidenav a {
+    position: absolute; 
+    left: -650px; 
+    transition: 0.5s; 
+    padding: 15px; 
+    width: 700px; 
+    text-decoration: none; 
+    font-size: 20px; 
+    color: #59180F; 
+    border-radius: 5px 5px 5px 5px; 
+}
+
+#mySidenav a:hover {
+    left: 0;
+}
+
+#quemsou{
+  margin-top: 140px;
+  margin-left:350px;
+  color:#59180F;
+  font-family:Georgia;
+}
+
+#quem {
+  
+    top: 155px;
+    background-color: #EBEAE7;
+}
+
+#fotop{
+  width: 250px ;
+  height:250px;
+  float:right;
+  margin-top: -180px;
+  margin-right:140px;
+  border-radius: 50%;
+}
+
+#oqfaco{
+  margin-top: 270px;
+  margin-left:350px;
+  color:#59180F;
+  font-family:Georgia;
+}
+
+#faco {
+    top: 480px;
+    background-color: #EBEAE7; 
+}
+
+#fotof{
+  width: 250px ;
+  height:250px;
+  float:right;
+  margin-top: -180px;
+  margin-right:140px;
+  border-radius: 50%;
+}
+#meusint{
+  margin-top: 270px;
+  margin-left:350px;
+  color:#59180F;
+  font-family:Georgia;
+}
+
+
+#int {
+  
+    top: 775px;
+    background-color: #EBEAE7; 
+}
+
+#fotoi{
+  width: 250px ;
+  height:250px;
+  float:right;
+  margin-top: -180px;
+  margin-right:140px;
+  margin-bottom: 30px;
+  border-radius: 50%;
+}
