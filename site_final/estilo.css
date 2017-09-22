@@ -89,7 +89,8 @@ body{
     left: 80%;
     transform: translate(-50%, -50%);
     font-size: 25px;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Roboto';
+    padding:2%;
     color: black;
     border-radius: 5%;
     background-color: #FF9751;
