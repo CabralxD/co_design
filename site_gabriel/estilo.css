@@ -1,0 +1,116 @@
+body{
+  background-color:white;
+
+}
+
+
+.navmenu {
+  overflow: hidden;
+  background-color: white;
+  color:black;
+
+}
+
+.navmenu a {
+  float:left; 
+  color: black;
+  text-align: center;
+  padding: 0.85em 5em;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: Georgia;
+}
+
+
+.navmenu a.estatico {
+    background-color: #D71414;
+    color: white;
+    font-size: 35px;
+    padding: 0.23em 3em;
+
+
+}
+
+.port{
+  float:left;
+  overflow:hidden;
+}
+.port .portbt {
+  background-color: white;
+  border:none;
+  outline:none;
+  color: black;
+  text-align: center;
+  padding: 0.85em 5em;
+  font-size: 20px;
+  font-family: Georgia ;
+}
+
+.navmenu a:hover, .port:hover .portbt{
+  background-color: black;
+  color:white;
+}
+
+
+.port-content{
+  display:none;
+  position:absolute;
+  background-color:grey;
+  min-width: 100px;
+  box-shadow: 10px 10px 10px 10px rgba(0,0,0,0);
+  z-index: 1;
+}
+
+.port-content a{
+    float:none;
+    color: white;
+    padding: 0.8em 0.8em;
+    text-decoration: none;
+    display: block;
+    text-align:left;
+}
+
+.fotinho {
+  width: 100%;
+  height:100%;
+
+}
+
+.container {
+    position: relative;
+}
+
+.center {
+    position: absolute;
+    top: 55%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    font-family: 'Roboto';
+    padding:2%;
+    color: black;
+    border-radius: 5%;
+    opacity: 0.8;
+    background-color: #FFFFFF;
+}
+
+.container img { 
+    width: 100%;
+    height: 120%;
+    margin-top: 20px;
+}
+
+
+.port-content a:hover {
+  background-color: #C63622
+}
+.port:hover .port-content {
+    display: block;
+}
+
+
+.img-circle{
+  border-radius: 50%
+}
+
+

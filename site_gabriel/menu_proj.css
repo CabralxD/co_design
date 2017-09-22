@@ -1,0 +1,90 @@
+
+.fotinho {
+  width: 100%;
+
+}
+
+.container {
+    position: relative;
+}
+
+.center {
+    position: absolute;
+    top: 70%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    color: black;
+}
+
+.img { 
+    width: 100%;
+    height: auto;
+    opacity: 0.3;
+}
+
+
+.port-content a:hover {
+  background-color: #C63622
+}
+.port:hover .port-content {
+    display: block;
+}
+
+
+
+.card {
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    max-width: 300px;
+    height:360px;
+    margin-top:80px;
+    margin-left:100px;
+    text-align: center;
+    background-color: #EBEAE7;
+    color:black;
+    display:inline-block;
+    font-size: 15px;
+}
+
+.info {
+    padding: 0 30px;
+}
+
+.materia {
+    color: black;
+    font-size: 18px;
+}
+
+button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #D71414;
+    text-align: center;
+    cursor: pointer;
+    width: 42%;
+    font-size: 18px;
+}
+button a{
+    text-decoration: none;
+    color: white;
+
+}
+
+button:hover, a:hover {
+    opacity: 0.8;
+}
+
+button:active {
+  background-color: #C63622;
+  box-shadow: 0 5px #C63622;
+  transform: translateY(6px);
+
+
+}
+
+
+
