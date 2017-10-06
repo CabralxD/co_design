@@ -18,13 +18,13 @@
 
 #quemsou{
   margin-top: 12%;
-  margin-left:20%;
+  margin-left:30%;
   color:#000000;
   font-family:Georgia;
 }
 
 #quem {
-  
+    color:white;
     top: 155px;
     background-color: #D71414;
 }
@@ -34,18 +34,19 @@
   height:250px;
   float:right;
   margin-top: -180px;
-  margin-right:25%;
+  margin-right:3.5%;
   border-radius: 50%;
 }
 
 #oqfaco{
   margin-top: 250px;
-  margin-left:20%;
+  margin-left:30%;
   color:#000000;
   font-family:Georgia;
 }
 
 #faco {
+    font-color:white;
     top: 480px;
     background-color: #D71414; 
 }
@@ -55,19 +56,19 @@
   height:250px;
   float:right;
   margin-top: -180px;
-  margin-right:25%;
+  margin-right:3.5%;
   border-radius: 50%;
 }
 #meusint{
   margin-top: 270px;
-  margin-left:20%;
+  margin-left:30%;
   color:#000000;
   font-family:Georgia;
 }
 
 
 #int {
-  
+    color:white;
     top: 775px;
     background-color: #D71414; 
 }
@@ -77,7 +78,7 @@
   height:250px;
   float:right;
   margin-top: -180px;
-  margin-right:25%;
+  margin-right:3.5%;
   margin-bottom: 30px;
   border-radius: 50%;
 }
